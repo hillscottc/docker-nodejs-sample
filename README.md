@@ -1,3 +1,4 @@
 # Sample Node.js application
 
-This repository is a sample Node.js application for Docker's documentation.
+This repository is the sample Node.js application from Docker's documentation.
+It's a TODO app, with persisted data postgres db.
